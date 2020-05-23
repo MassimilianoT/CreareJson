@@ -1,0 +1,23 @@
+{
+  "nome" : "Elenco Corsi di studio",
+  "corsi": [
+    {
+      "nome_corso":"Algebra",
+      "id":0,
+      "docente":"Pellegrini",
+      "cfu":9
+    },
+    {
+      "nome_corso":"Analisi I",
+      "id":1,
+      "docente":"Gervasio",
+      "cfu":9
+    },
+    {
+      "nome_corso":"Fisica Sperimentale I",
+      "id":2,
+      "docente":"Ferroni",
+      "cfu":9
+    }
+  ]
+}
